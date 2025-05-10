@@ -1,6 +1,6 @@
 ## Hi there! I'm Diqta Putra Aditya 👋
 
-![Diqta Putra Aditya](img\github-header-image.png)
+![Diqta Putra Aditya](https://github.com/DiqtaPutraAditya/DiqtaPutraAditya/blob/main/img/github-header-image.png)
 
 - 🎓 I’m a student at **Electronic Engineering Polytechnic Institute of Surabaya (EEPIS)**, majoring in **Electrical Engineering**.
 
